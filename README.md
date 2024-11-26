@@ -1,6 +1,4 @@
-# Netflix-clone
-A code for netflix homepage
-A code for netflix homepage
+
 A code for netflix homepage.
 This project is built using html and css purely.
 The project is developed keeping in mind the original netflix website.
