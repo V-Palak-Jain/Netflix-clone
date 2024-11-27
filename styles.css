@@ -127,9 +127,6 @@ hr{
     margin-top: 0;
     margin-left: 60px;
 }
-.trending-now .images{
-    display: flex;
-}
 .trending-now img{
     height: 250px;
     width: 200px;
@@ -147,24 +144,24 @@ hr{
     background-color: red;
     border-radius: 5px;
     align-items: center;
-    top:106.5%;
+    top:123%;
     position: absolute;
     padding: 4px 4px;
 }
 .trending-now .f{
-    left: 6.5%;
+    left: 6%;
 }
 .trending-now .g{
-    left: 24.2%;
+    left: 23.8%;
 }
 .trending-now .h{
-    left: 41.8%;
+    left: 41.2%;
 }
 .trending-now .i{
-    left: 60%;
+    left: 58.4%;
 }
 .trending-now .j{
-    left: 77.7%;
+    left: 75.8%;
 }
 .final-home{
     color: white;
